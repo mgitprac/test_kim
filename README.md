@@ -1,5 +1,4 @@
 # Tenda Kim
-
 HI
 
 Fujiwara
